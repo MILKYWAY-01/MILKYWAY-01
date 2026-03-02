@@ -1,4 +1,4 @@
-# Hi 👋, I'm Piyush Dani
+# Hi 👋, I'm Piyush Dani                                                                       ![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ4ZGp6YjJzbmN2b3d2cHdldTc1NzNub29rMDducDM0dW1xMnlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 💻 I am a Android   
 🚀 Interested in Hackathons & Open Innovation  
