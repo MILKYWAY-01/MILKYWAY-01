@@ -1,27 +1,63 @@
-# Hi 👋, I'm Piyush Dani                                                                       ![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ4ZGp6YjJzbmN2b3d2cHdldTc1NzNub29rMDducDM0dW1xMnlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+<h1 align="center">  Piyush Dani 👋</h1>       
 
-💻 I am a Android   
-🚀 Interested in Hackathons & Open Innovation  
-🌱 Currently learning Firebase & Backend  
+## 🚀 About Me
 
----
+Computer Engineering student focused on building **scalable and impactful technology solutions**. I develop high-performance, user-centric mobile applications backed by reliable backend systems.
 
-## 🛠️ Skills
+Experienced with **Firebase** (Authentication, Firestore, Realtime Database, Hosting) and skilled in **Java** and **Python**, I prioritize clean code, efficient architecture, and production-ready development.
 
-<p align="left">
+I actively explore **emerging technologies, AI integrations, and cloud services**, and regularly participate in hackathons and real-world projects to solve meaningful problems through innovation.
+
+
+## 🎯 Current Focus
+
+* Building scalable, production-ready mobile applications
+* Strengthening backend architecture and cloud integration
+* Exploring AI-powered features and intelligent automation
+* Improving system design and clean architecture practices
+
+
+
+
+## 🧠 Skills & Tools
+
+<p align="center">
+<a href="https://developer.android.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>
+</a>
+
+<a href="https://flutter.dev" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
----
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/5bGYUuT3VEVLa/giphy.gif" width="350" alt="Profile GIF"/>
+</p>
