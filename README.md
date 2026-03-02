@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Computer Engineering student focused on building **scalable and impactful technology solutions**. I develop high-performance, user-centric mobile applications backed by reliable backend systems.
+I am a Computer Engineering student focused on building **scalable and impactful technology solutions**. I develop high-performance, user-centric mobile applications backed by reliable backend systems.
 
 Experienced with **Firebase** (Authentication, Firestore, Realtime Database, Hosting) and skilled in **Java** and **Python**, I prioritize clean code, efficient architecture, and production-ready development.
 
